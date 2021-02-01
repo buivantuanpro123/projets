@@ -1,3 +1,4 @@
+La plateforme est disponible sur http://sds5000.insa-cvl.fr:80/
 ## Installation:
 
 ### En utilisant docker-compose
